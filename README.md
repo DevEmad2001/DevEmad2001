@@ -2,16 +2,16 @@
 <h3 align="center">Founder & CEO at FLASHA | Software Engineer | .NET & Sitecore Developer | AI & Data Science Trainer</h3>
 
 <p align="center">
-  I build real-world software solutions that connect business needs with modern technology, spanning backend engineering, mobile applications, training, and digital product development.
+  I work at the intersection of software engineering, business needs, IT solutions, and technical training.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- Founder & CEO of **FLASHA**, where I work on building software products and technical solutions
+- Founder & CEO of **FLASHA**, focused on building software solutions and digital products
 - Software Engineer with experience in **.NET, Sitecore, backend systems, APIs, and databases**
-- Technical Trainer in **AI, Data Science, and software development**
+- Technical Trainer in **AI, Data Science, IT, and software development**
 - Passionate about combining **business thinking, IT solutions, and modern technologies** to create practical and scalable systems
 - Interested in **digital transformation, technical education, system design, and real-world product development**
 
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-6DB33F?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-222222?style=for-the-badge" />
@@ -60,11 +59,11 @@
 
 ## 🌍 Professional Focus
 
-- **Software Engineering**: Building structured, scalable, and maintainable systems
+- **Software Engineering**: Building scalable and maintainable systems
 - **Business & Technology**: Turning business needs into real digital solutions
 - **Training & Mentorship**: Delivering technical knowledge in practical and clear ways
-- **AI & Data**: Supporting learning, projects, and applied technical understanding in AI and data-related domains
-- **IT Solutions**: Helping shape technical systems that support operations, productivity, and growth
+- **AI & Data**: Supporting learning and applied technical understanding in AI and data-related domains
+- **IT Solutions**: Helping shape systems that support operations, productivity, and growth
 
 ---
 
@@ -86,5 +85,6 @@ A professional admin module for managing job applications, data handling, and bu
 
 ## 🤝 Let's Connect
 
-- GitHub: [DevEmad2001](https://github.com/DevEmad2001)
-- Instagram: [emad.rabaya.7](https://www.instagram.com/emad.rabaya.7)
+- LinkedIn: [Emad Atieh](https://www.linkedin.com/in/emad-atieh/)
+- Instagram: [@dev.e.atieh](https://www.instagram.com/dev.e.atieh?igsh=MWRkdnJic201Y2w3OA%3D%3D&utm_source=qr)
+- Facebook: [Emad Atieh](https://www.facebook.com/share/1DuNsoxiMu/?mibextid=wwXIfr)
