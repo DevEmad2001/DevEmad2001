@@ -1,90 +1,70 @@
-<h1 align="center">Hi, I'm Emad Atieh 👋</h1>
-<h3 align="center">Founder & CEO at FLASHA | Software Engineer | .NET & Sitecore Developer | AI & Data Science Trainer</h3>
+<div align="center">
+
+<!-- FLASHA Logo -->
+<img src="./NewLogo.jpg" alt="FLASHA Logo" width="180" />
+
+<br/><br/>
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:1d4ed8,75:06b6d4,100:38bdf8&text=Emad%20Atieh&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Founder%20%26%20CEO%20at%20FLASHA%20%7C%20Software%20Engineer%20%7C%20AI%20Trainer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+
+<br/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=980&lines=.NET+Developer+%7C+Sitecore+Developer;Founder+%26+CEO+at+FLASHA;Backend+Engineer+%7C+System+Builder;AI+%26+Data+Science+Trainer;Building+Software+That+Solves+Real+Problems" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Intro Line -->
+<h3>
+  <img src="https://img.shields.io/badge/Code-Architecture-111827?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Business-Driven%20Solutions-111827?style=for-the-badge&logo=framework&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/AI-Training-111827?style=for-the-badge&logo=openai&logoColor=38BDF8" />
+</h3>
 
 <p align="center">
-  I work at the intersection of software engineering, business needs, IT solutions, and technical training.
+  Building backend systems, business platforms, digital products, and practical technical solutions.
 </p>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- Social + Identity -->
+<a href="https://github.com/emadatieh">
+  <img src="https://img.shields.io/badge/GitHub-emadatieh-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/emad-atieh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Emad%20Atieh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/dev.e.atieh">
+  <img src="https://img.shields.io/badge/Instagram-@dev.e.atieh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/share/1DuNsoxiMu/?mibextid=wwXIfr">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-- Founder & CEO of **FLASHA**, focused on building software solutions and digital products
-- Software Engineer with experience in **.NET, Sitecore, backend systems, APIs, and databases**
-- Technical Trainer in **AI, Data Science, IT, and software development**
-- Passionate about combining **business thinking, IT solutions, and modern technologies** to create practical and scalable systems
-- Interested in **digital transformation, technical education, system design, and real-world product development**
+<br/><br/>
 
----
+<!-- Tech Icons -->
+<img src="https://skillicons.dev/icons?i=dotnet,cs,python,flutter,react,ts,js,nodejs,mysql,postgresql,mongodb,docker,git,github,vscode,visualstudio&perline=8" />
 
-## 💼 What I Do
+<br/><br/>
 
-- Build backend systems and business applications
-- Develop web and mobile solutions for real use cases
-- Train students and professionals in technical and AI-related fields
-- Bridge the gap between **technology, business requirements, and product execution**
-- Support digital projects through engineering, consulting, and structured technical thinking
+<!-- Developer Badges -->
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Sitecore-EB1F1F?style=flat-square&logo=sitecore&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-0F172A?style=flat-square&logo=serverfault&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/APIs-0F172A?style=flat-square&logo=fastapi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-0F172A?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
 
----
+<br/><br/>
 
-## 🛠 Tech Stack
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=emadatieh&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sitecore-EA1F1F?style=for-the-badge&logo=sitecore&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<br/><br/>
 
----
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212749695-f7e6f9d5-9d9b-4b3f-b2d4-4e6d918c4b06.gif" width="100%" />
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevEmad2001&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmad2001&layout=compact&theme=transparent" />
-</p>
-
----
-
-## 🌍 Professional Focus
-
-- **Software Engineering**: Building scalable and maintainable systems
-- **Business & Technology**: Turning business needs into real digital solutions
-- **Training & Mentorship**: Delivering technical knowledge in practical and clear ways
-- **AI & Data**: Supporting learning and applied technical understanding in AI and data-related domains
-- **IT Solutions**: Helping shape systems that support operations, productivity, and growth
-
----
-
-## 📌 Featured Projects
-
-### Identity Manager Project
-A role and permissions management system designed to organize users, access control, and responsibilities inside a company environment.
-
-### Flasha Platform
-A dynamic platform that reflects business, technology, and digital service direction through structured software solutions.
-
-### Restaurant Management System
-A real-world operational system for restaurant workflows, order handling, and business processes using Flutter and backend integrations.
-
-### Careers Admin Module
-A professional admin module for managing job applications, data handling, and business workflows using Sitecore and .NET technologies.
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn: [Emad Atieh](https://www.linkedin.com/in/emad-atieh/)
-- Instagram: [@dev.e.atieh](https://www.instagram.com/dev.e.atieh?igsh=MWRkdnJic201Y2w3OA%3D%3D&utm_source=qr)
-- Facebook: [Emad Atieh](https://www.facebook.com/share/1DuNsoxiMu/?mibextid=wwXIfr)
+</div>
