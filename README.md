@@ -1,90 +1,146 @@
-<h1 align="center">Hi, I'm Emad Atieh 👋</h1>
-<h3 align="center">Founder & CEO at FLASHA | Software Engineer | .NET & Sitecore Developer | AI & Data Science Trainer</h3>
+<div align="center">
 
-<p align="center">
-  I work at the intersection of software engineering, business needs, IT solutions, and technical training.
-</p>
+# Emad Atieh
 
----
+### Founder & CEO at FLASHA | Software Engineer | AI & Data Science Trainer
 
-## 🚀 About Me
+Building software solutions, backend systems, digital products, and practical technical training.
 
-- Founder & CEO of **FLASHA**, focused on building software solutions and digital products
-- Software Engineer with experience in **.NET, Sitecore, backend systems, APIs, and databases**
-- Technical Trainer in **AI, Data Science, IT, and software development**
-- Passionate about combining **business thinking, IT solutions, and modern technologies** to create practical and scalable systems
-- Interested in **digital transformation, technical education, system design, and real-world product development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emad%20Atieh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emad-atieh/)
+[![Instagram](https://img.shields.io/badge/Instagram-@dev.e.atieh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.e.atieh)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DuNsoxiMu/?mibextid=wwXIfr)
+
+</div>
 
 ---
 
-## 💼 What I Do
+## About Me
 
-- Build backend systems and business applications
-- Develop web and mobile solutions for real use cases
-- Train students and professionals in technical and AI-related fields
-- Bridge the gap between **technology, business requirements, and product execution**
-- Support digital projects through engineering, consulting, and structured technical thinking
+I am a software engineer focused on building practical systems that connect technology with real business needs.  
+My work spans backend development, enterprise solutions, CMS platforms, APIs, databases, mobile applications, and technical training.
 
----
+I also lead **FLASHA**, where I work on software products, digital solutions, and technology-driven initiatives.
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sitecore-EA1F1F?style=for-the-badge&logo=sitecore&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Science-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IT-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### Professional Focus
+- Backend Development and System Design
+- Enterprise and Business Solutions
+- APIs and Database Architecture
+- Mobile and Web Application Development
+- AI, Data Science, and Technical Training
+- Turning business requirements into real products
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevEmad2001&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmad2001&layout=compact&theme=transparent" />
-</p>
+### Languages
+- C#
+- Python
+- JavaScript
+- TypeScript
+- Dart
+- SQL
+
+### Frameworks & Platforms
+- .NET / ASP.NET Core
+- Sitecore
+- Flutter
+- React
+- Entity Framework / EF Core
+
+### Databases
+- SQL Server
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### Tools & Practices
+- Git & GitHub
+- REST APIs
+- Swagger / Postman
+- Docker
+- Visual Studio / VS Code
+- Clean Architecture
+- OOP / SOLID Principles
 
 ---
 
-## 🌍 Professional Focus
+## What I Do
 
-- **Software Engineering**: Building scalable and maintainable systems
-- **Business & Technology**: Turning business needs into real digital solutions
-- **Training & Mentorship**: Delivering technical knowledge in practical and clear ways
-- **AI & Data**: Supporting learning and applied technical understanding in AI and data-related domains
-- **IT Solutions**: Helping shape systems that support operations, productivity, and growth
+### Software Engineering
+- Build maintainable backend systems
+- Develop scalable APIs and business logic
+- Design database structures and integrations
+- Deliver web and mobile solutions
+
+### Training & Mentorship
+- Train students and professionals in technical topics
+- Simplify complex concepts into practical learning
+- Support learners in AI, Data Science, and software development
+
+### Business & Product Thinking
+- Translate business needs into technical solutions
+- Support digital transformation initiatives
+- Connect execution with product value
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### Identity Manager Project
-A role and permissions management system designed to organize users, access control, and responsibilities inside a company environment.
+### FLASHA Platform
+A dynamic platform representing software services, digital solutions, and structured content management.
 
-### Flasha Platform
-A dynamic platform that reflects business, technology, and digital service direction through structured software solutions.
+**Tech:** .NET, React, SQL Server
 
 ### Restaurant Management System
-A real-world operational system for restaurant workflows, order handling, and business processes using Flutter and backend integrations.
+A real-world operational system for order handling, restaurant workflows, invoices, and printing logic.
+
+**Tech:** Flutter, Dart, APIs, SQLite
 
 ### Careers Admin Module
-A professional admin module for managing job applications, data handling, and business workflows using Sitecore and .NET technologies.
+A professional admin module for managing job applications and business workflows.
+
+**Tech:** Sitecore, .NET, SQL Server
+
+### Identity & Access Management
+A structured system for organizing users, permissions, and responsibilities.
+
+**Tech:** C#, .NET, SQL Server
 
 ---
 
-## 🤝 Let's Connect
+## GitHub Stats
 
-- LinkedIn: [Emad Atieh](https://www.linkedin.com/in/emad-atieh/)
-- Instagram: [@dev.e.atieh](https://www.instagram.com/dev.e.atieh?igsh=MWRkdnJic201Y2w3OA%3D%3D&utm_source=qr)
-- Facebook: [Emad Atieh](https://www.facebook.com/share/1DuNsoxiMu/?mibextid=wwXIfr)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=emadatieh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emadatieh&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## Current Interests
+
+- Scalable backend systems
+- Enterprise architecture
+- AI-powered solutions
+- Data-driven applications
+- Technical education and practical training
+- Product-focused software development
+
+---
+
+## Let's Connect
+
+- **LinkedIn:** [Emad Atieh](https://www.linkedin.com/in/emad-atieh/)
+- **Instagram:** [@dev.e.atieh](https://www.instagram.com/dev.e.atieh)
+- **Facebook:** [Profile](https://www.facebook.com/share/1DuNsoxiMu/?mibextid=wwXIfr)
+
+---
+
+<div align="center">
+
+**Open for:** Consulting, Training, Partnerships, and Speaking Opportunities
+
+</div>
