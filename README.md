@@ -136,38 +136,4 @@ I also lead **FLASHA**, where I build software solutions, digital services, and 
 
 لازم يتسكر **بثلاث backticks لحالهم في سطر مستقل**، وبعدها تبدأ القسم اللي بعده.
 
----
-
-## الحل
-احذف الجزء الحالي، وحط هذا **كما هو**:
-
-```md
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="26" /> Professional Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Sitecore-EB1F1F?style=for-the-badge&logo=sitecore&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/AI%20%26%20Data-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-
-</div>
-
-<br/>
-
-```yaml
-Name: Emad Atieh
-Title: Software Engineer
-Company: FLASHA
-Core Focus:
-  - Backend Development
-  - System Design
-  - APIs & Integrations
-  - CMS & Business Solutions
-  - Technical Training
-  - AI & Data Science
-Mission: Building practical software that solves real problems
 
