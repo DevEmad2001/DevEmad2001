@@ -73,77 +73,89 @@
 
 
 
+<!-- MIDDLE SECTION - VIBRANT VERSION -->
 
-<!-- MIDDLE SECTION -->
+<div align="center">
 
-<h2 align="center">🚀 About Me</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f172a,35:1d4ed8,70:06b6d4,100:67e8f9&section=header&text=What%20I%20Do&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  I’m a software engineer and founder focused on building practical digital solutions that solve real business problems.
-  I work across backend engineering, product architecture, business platforms, and AI-driven systems with a strong focus on clarity, scalability, and impact.
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=900&lines=Building+software+with+purpose;Designing+scalable+backend+systems;Turning+ideas+into+real+products;Mixing+engineering+with+business+impact" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180" />
+
+<br/><br/>
+
+<h2>✨ Turning Ideas Into Real Products</h2>
+
+<p align="center" width="85%">
+  I build systems, platforms, and digital products that solve real business problems.
+  My work combines backend engineering, software architecture, product thinking, and practical AI solutions.
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Backend%20Systems-0F172A?style=for-the-badge&logo=serverfault&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Product-Business%20Platforms-0F172A?style=for-the-badge&logo=framework&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/AI-Practical%20Intelligent%20Solutions-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-</p>
+<img src="https://img.shields.io/badge/.NET%20Backend-Clean%20%26%20Scalable-111827?style=for-the-badge&logo=dotnet&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Product%20Thinking-Business%20Driven-111827?style=for-the-badge&logo=producthunt&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AI%20Solutions-Practical%20%26%20Useful-111827?style=for-the-badge&logo=openai&logoColor=38BDF8" />
 
-<br/>
+<br/><br/><br/>
 
-<h2 align="center">💼 What I Build</h2>
+<h2>🚀 My Core Zones</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Backend%20Architecture-.NET%20%7C%20APIs%20%7C%20Systems-111827?style=for-the-badge&logo=dotnet&logoColor=38BDF8" />
-      <br/><br/>
-      I design and develop backend systems with clean architecture, maintainable code, and strong business logic.
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="64" /><br/><br/>
+      <strong>Backend Engineering</strong><br/><br/>
+      APIs, business logic, database design,<br/>
+      clean architecture, and maintainable systems.
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Digital%20Products-Business%20Driven%20Solutions-111827?style=for-the-badge&logo=producthunt&logoColor=38BDF8" />
-      <br/><br/>
-      I build platforms, dashboards, admin systems, and internal tools that support real workflows and measurable growth.
+      <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="64" /><br/><br/>
+      <strong>Platform Building</strong><br/><br/>
+      Admin systems, dashboards, internal tools,<br/>
+      and products built for real workflows.
     </td>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/AI%20%26%20Training-Data%20%7C%20Learning%20%7C%20Tools-111827?style=for-the-badge&logo=tensorflow&logoColor=38BDF8" />
-      <br/><br/>
-      I work on practical AI use cases, technical training, and solutions that connect software with data and automation.
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="64" /><br/><br/>
+      <strong>AI & Training</strong><br/><br/>
+      Practical AI use cases, automation ideas,<br/>
+      and technical learning experiences.
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2>🛠️ Currently Focused On</h2>
+
+<img src="https://img.shields.io/badge/Building-FLASHA-2563eb?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Specialized%20In-.NET%20%26%20Sitecore-0f172a?style=for-the-badge&logo=sitecore&logoColor=white" />
+<img src="https://img.shields.io/badge/Working%20On-APIs%20%26%20Platforms-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Training-AI%20%26%20Data%20Science-0891b2?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+<h2>🌟 Work Style</h2>
+
+<img src="https://img.shields.io/badge/Clean-Architecture-111827?style=flat-square&logo=codefactor&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Problem-Solving-111827?style=flat-square&logo=target&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Business-Impact-111827?style=flat-square&logo=briefcase&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Scalable-Systems-111827?style=flat-square&logo=docker&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Always-Building-111827?style=flat-square&logo=githubcopilot&logoColor=38BDF8" />
+
+<br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building-FLASHA-1d4ed8?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialized%20In-.NET%20%26%20Sitecore-0f172a?style=for-the-badge&logo=sitecore&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engineering-APIs%20%26%20Platforms-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Training-AI%20%26%20Data%20Science-0284c7?style=for-the-badge&logo=openai&logoColor=white" />
+  I enjoy building software that is clear, useful, scalable, and connected to real goals.
 </p>
 
 <br/>
 
-<h2 align="center">🧠 Working Style</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:38bdf8&height=3&section=header" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean-Architecture-111827?style=flat-square&logo=codefactor&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Problem-Solving-111827?style=flat-square&logo=target&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Business-Impact-111827?style=flat-square&logo=briefcase&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Performance-Driven-111827?style=flat-square&logo=speedtest&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Systems-Builder-111827?style=flat-square&logo=buffer&logoColor=38BDF8" />
-</p>
-
-<p align="center">
-  I care about building software that is not only functional, but reliable, extensible, and aligned with real-world business goals.
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1d4ed8,100:38bdf8&height=2&section=header&reversal=false" width="100%" />
-</p>
+</div>
