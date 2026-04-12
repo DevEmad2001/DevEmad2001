@@ -162,3 +162,70 @@
 
 
 
+
+
+
+<!-- FINAL SECTION / CLOSING -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:0f172a,50:1d4ed8,75:06b6d4,100:38bdf8&section=header&text=Thanks%20for%20visiting&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Building%20software%20with%20logic%2C%20purpose%2C%20and%20impact&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=1000&lines=Code.+Build.+Solve.;Turning+ideas+into+working+systems;Backend+engineering+with+business+impact;Always+building+something+useful" alt="Typing SVG" />
+
+<br/><br/>
+
+<h2>💡 Final Note</h2>
+
+<p align="center">
+  I enjoy building software that solves real problems, supports real people,
+  and creates real value.
+</p>
+
+<p align="center">
+  From backend systems to digital products and practical AI solutions,
+  I focus on clarity, scalability, and meaningful execution.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-111827?style=for-the-badge&logo=handshake&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Focused%20On-Backend%20%26%20Products-111827?style=for-the-badge&logo=serverfault&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Building-With%20Purpose-111827?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8" />
+
+<br/><br/>
+
+<h2>🤝 Let's Connect</h2>
+
+<a href="https://github.com/emadatieh">
+  <img src="https://img.shields.io/badge/GitHub-emadatieh-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/emad-atieh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Emad%20Atieh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/dev.e.atieh">
+  <img src="https://img.shields.io/badge/Instagram-@dev.e.atieh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/share/1DuNsoxiMu/?mibextid=wwXIfr">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:1d4ed8,100:020617&height=3&section=header" width="100%" />
+
+<p align="center">
+  <strong>Emad Atieh</strong> — Founder, Builder, and Engineer of practical digital solutions.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,25:0f172a,50:1d4ed8,75:06b6d4,100:38bdf8&section=footer" width="100%" />
+
+</div>
+
+
