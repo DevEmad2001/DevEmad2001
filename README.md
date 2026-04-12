@@ -131,25 +131,3 @@ I also lead **FLASHA**, where I build software solutions, digital services, and 
 
 <br/>
 
-```yaml
-Name: Emad Atieh
-Title: Software Engineer
-Company: FLASHA
-Core Focus:
-  - Backend Development
-  - System Design
-  - APIs & Integrations
-  - CMS & Business Solutions
-  - Technical Training
-  - AI & Data Science
-Mission: Building practical software that solves real problems
-
-
-
-### Turning ideas into practical systems, digital products, and meaningful technical solutions.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:020617&height=140&section=footer" width="100%" />
-
-</div>
