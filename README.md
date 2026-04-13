@@ -6,8 +6,12 @@
 <br/><br/>
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Emad%20Atieh&fontSize=55&fontColor=ffffff&animation=fadeIn" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:1d4ed8,75:06b6d4,100:38bdf8&text=Emad%20Atieh&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Founder%20%26%20CEO%20at%20FLASHA%20%7C%20Software%20Engineer%20%7C%20AI%20Trainer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:1d4ed8,75:06b6d4,100:38bdf8&text=Emad%20Atieh&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=.NET%20Developer%20%7C%20Sitecore%20Developer%20%7C%20Founder%20of%20FLASHA&descSize=18&descAlignY=58&animation=fadeIn" />
+</p>
+
+type=waving&height=260&color=0:020617,25:0f172a,50:1d4ed8,75:06b6d4,100:38bdf8&text=Emad%20Atieh&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=Founder%20%26%20CEO%20at%20FLASHA%20%7C%20Software%20Engineer%20%7C%20AI%20Trainer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
