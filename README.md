@@ -178,11 +178,11 @@ public class EmadAtieh : Developer
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevEmad2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="./metrics.achievements.svg" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevEmad2001&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=06b6d4&point=ffffff" width="100%" />
+<img src="./metrics.isocalendar.svg" width="100%" />
 
 <br/><br/>
 
@@ -270,7 +270,7 @@ public class EmadAtieh : Developer
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DevEmad2001&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=DevEmad2001&style=for-the-badge&color=0ea5e9" alt="Profile Views" />
 
 <br/><br/>
 
